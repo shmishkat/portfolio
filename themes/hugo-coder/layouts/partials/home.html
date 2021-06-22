@@ -1,0 +1,35 @@
+<section class="container centered">
+  <div class="about">
+    {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
+      {{ with .Site.Params.avatarURL }}
+        <div class="avatar"><img src="{{ . | relURL }}" alt="avatar"></div>
+      {{ end }}
+    {{ end }}
+    {{ with .Site.Params.gravatar }}
+      <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
+    {{ end }}
+    <h1>{{ .Site.Params.author }}</h1>
+    <h2>{{ .Site.Params.info }}</h2>
+
+    <p>Graduated from the Department of CSE at BRAC University,<br/> a Coder, <a href="https://www.behance.net/shmishkat" title="Behance | shmishkat">UI/UX</a> design enthusiast and a <a href="https://lichess.org/@/sh-mishkat" title="Lichess | sh-mishkat">Chess</a> lover.</p>
+    <h2>Download my <a href="https://docs.google.com/document/d/1SauY4juad09lHhrK5SSh4_VVS_vyvB7a4YQSXWXUPt0/edit" title="Résumé | shmishkat">Résumé</a></h2>
+
+    {{ with .Site.Params.social }}
+    <ul>
+      {{ range sort . "weight" }}
+        {{ if .icon }}
+          <li>
+            <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
+              <i class="{{ .icon }}" aria-hidden="true"></i>
+            </a>
+          </li>
+        {{ else }}
+          <li>
+            <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</section>
