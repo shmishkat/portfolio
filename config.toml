@@ -1,4 +1,4 @@
-baseURL = "http://shmishkat.github.io/"
+baseURL = "https://shmishkat.github.io/"
 title = "Sarowar H. Mishkat"
 theme = "hugo-coder"
 languageCode = "en"
