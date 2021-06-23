@@ -9,8 +9,8 @@ tags = [
 ]
 +++
 
-<center><p><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6d8ab144-0385-4b54-8d7f-3c34418708c3/poster_winner-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210621%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20210621T212851Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=57b6afd91c066d6bbcc6c17fba3ca4158e24ed76882adc16281aa4547ee19df0&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=filename%20%3D%22poster_winner-min.jpg%22" alt="1st Inter-University Team Battle Standings"><br/>
-<em>Winners of 1st Inter-University Team Battle Final</em><br/></p></center> <br/>
+<p style="text-align:center;"><img src="/images/1stInterUniversityFinal/1stInterUniversityFinal.jpeg" alt="1st Inter-University Champions" title="1st Inter-University Champions"></br></p>
+
 
 ১ম অনলাইন আন্তঃবিশ্ববিদ্যালয় দলীয় দাবা টুর্নামেন্টে, ব্র্যাক বিশ্ববিদ্যালয়ের শিরোপা জয়!<br/>
 

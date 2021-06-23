@@ -13,9 +13,8 @@ tags = [
 
 Lichess অনলাইন দাবা সার্ভার ম্যারাথন আয়োজন করে । তবে সেটি দৌড়ের নয়, দাবা খেলার! এই দাবা ম্যারাথনটি সবার জন্য উন্মুক্ত এবং টুর্নামেন্টটি চলে ২৪ ঘণ্টা । এই ২৪ ঘণ্টার মাঝে যে যতও গেম খেলতে পারে, একটি গেম জয়ের জন্য ১ পয়েন্ট, ড্রয়ের জন্য ১/২ পয়েন্ট । ২৪ ঘণ্টা শেষে যে সবচেয়ে বেশি পয়েন্ট পাবেন সেই হবেন এই টুর্নামেন্টের বিজেতা।
 
-
-<center><p><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db737518-6dbc-4925-ab3d-96c917028039/Screenshot_2020-04-22_at_1.55.47_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210621%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20210621T200346Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5c66cb0366f0c04c8188fffbfa3c674cb874cff2722cd4a8ddf635c64d67c532&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=filename%20%3D%22Screenshot_2020-04-22_at_1.55.47_PM.png%22" alt="টুর্নামেন্ট শেষে এর বিস্তারিত ।"><br/> 
-<em>টুর্নামেন্ট শেষে এর বিস্তারিত ।</em><br/></p></center>
+<p style="text-align:center;"><img src="/images/2020SpringMarathon/tournamentDetails.png" alt="Image" title="Tournament details"></br>
+<em>টুর্নামেন্ট শেষে আমার পার্ফমেন্স ।</em></p>
 
 
 আমি কখনো দৌড় ম্যারাথনে অংশ নেই নি । Lichess-এর দাবা ম্যারাথনে অংশ নেওয়ার ইচ্ছে ছিল অনেক দিনের কিন্তু সময় স্বল্পতার কারণে তা হয়ে ওঠে নি । করোনা ভাইরাসের সংক্রামণের কারণে হোম কোয়ারেন্টিনে বসে আছি, এমন সময় দেখি Lichess 2020 Spring Marathon এর ঘোষণা দেয় । সিদ্ধান্ত নিয়ে ফেললাম এবার দাবা ম্যারাথন খেলবো ।<br/>
@@ -28,35 +27,48 @@ Lichess অনলাইন দাবা সার্ভার ম্যারা
 
 আমার প্রথমে লক্ষ্য ছিল সেরা ৫০০ এর মধ্যে থাকবো । খেলোয়াড়ের সংখ্যা অনেক বৃদ্ধি পাচ্ছিলো বিধায় সে লক্ষ্য অর্জন নিয়েও চিন্তায় ছিলাম । তবে আমার স্ট্রাটেজি ছিল আমি প্রচুর গেম খেলবো, যেহেতু আমার জয়ের রেট কম, সেটা পূরণ করবো বেশি গেম খেলে । দুপুরের দিক থেকে আমি মূলত আমার চেয়ে অনেক দক্ষ খেলোয়াড়দের মোকাবেলা করছিলাম । কারণ ২-১ টি করে গেম জিততে জিততে আমার অবস্থান ১,০০০ এর ভিতরে চলে এসেছিলো । আর শীর্ষ ১,০০০ এর ভিতরে, প্রায় সকল খেলোয়াড়ের রেটিং ২,০০০+ আমার যেখানে ১৬০০+!  পাশের ছবিতে লক্ষ্য করলে দেখা যাবে আমার প্রতিদ্বন্দ্বীদের গড় রেটিং (Average opponent) ছিল ২১০৪।<br/>
 
-<center><p><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aee768be-aed9-497c-af59-5ddc988c1e90/Screenshot_2020-04-22_at_11.13.45_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210621%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20210621T201916Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=75233a0564a57e14f326ee056def30acd8757aabaa5251ff0285a5001596ee08&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=filename%20%3D%22Screenshot_2020-04-22_at_11.13.45_PM.png%22" alt="টুর্নামেন্ট শেষে আমার পার্ফমেন্স ।">
-<br/><em>টুর্নামেন্ট শেষে আমার পার্ফমেন্স ।</em><br/></p></center>
+<p style="text-align:center;"><img src="/images/2020SpringMarathon/performance.png" alt="Image" title="Tournament details"></br>
+<em>টুর্নামেন্ট শেষে আমার পার্ফমেন্স ।</em></p>
+
 
 বিকেলের দিকে ওয়ারজেফ শুনছিলাম আর মাথা দুলাতে দুলাতে খেলে যাচ্ছিলাম । হঠাৎ দেখি আমার গেম দেখার জন্য অনেক কিবিতজার(দাবা দর্শক) চলে আসছে। আমারতো এতো ফলোয়ার নেই, এতো দর্শক আসলো কোত্থেকে । তাকিয়ে দেখি আমি সেই আমেরিকান গ্র্যান্ড মাস্টার গাতা কামস্কির সাথে খেলছি! তখন ১৩-১৪ চাল খেলে ফেলেছি । আমার পজিশন আমার ভালোই লাগছিলো । তারপর বিচলিত হয় পড়লাম । বিচলিত হওয়াই স্বাভাবিক । খেলা শেষে দাবা ইঞ্জিন দিয়ে এনালাইসিস করে দেখি ১৫তম চালের পরে আমার পজিশন জিতার মত ছিল! Stockfish 11 দেখাচ্ছিল কালোর জন্য ১৫তম মুভের পর ৪.৬ এডভান্টেজ ছিল । যেটা দাবায় সহজে জিতার মত এডভান্টেজ বলা হয়ে থাকে। আমি সেই জিটার ট্যাক্টিকাল সিকোয়েন্স ধরতে পারি নি । পরে ধীরে ধীরে ৩২ তম চালে আমার নিশ্চিত হার হওয়ায় গেমটি রিজাইন করে দেই । পাশে আমার এনোটেশনসহ পুরো গেইমের এনালাইসিস দেওয়া হল । প্রত্যেক চালের পিছনে আমার চিন্তা ধারা এবং ব্যাখ্যা দেওয়া আছে ।<br/>
 গেম লিঙ্ক [ https://lichess.org/d4ASymo6 ]<br/>
 
 GM Gata Kamasky vs Sarowar H. Mishkat
-<iframe width=600 height=371 src="https://lichess.org/study/embed/shfCFZq0/6MI0qroG" frameborder=0></iframe>
+<div align="center">
+        <iframe width=600 height=371 src="https://lichess.org/study/embed/shfCFZq0/6MI0qroG" frameborder=0></iframe>
+</div>
+
 
 গ্র্যান্ড মাস্টারের সাথে জিততে না পারলেও একজন ক্যান্ডিডেট মাস্টারের সাথে ঠিকই জিততে সক্ষম হয়েছি ! 
 
 মজার ব্যাপার হল তার Lichess প্রোফাইলে একটা উক্তি দেওয়া আছে, সেটি হল "Be careful with the weakest player, sometimes it is the strongest"!  তা বটে দাদা মশাই!<br/>
 Sarowar Hossain Mishkat vs CM WildTricks(username on lichess)<br/>
-<iframe src="https://lichess.org/embed/WMPDfJ0q?theme=auto&bg=auto"
-width=600 height=397 frameborder=0></iframe><br/>
+
+<div align="center">
+    <iframe src="https://lichess.org/embed/WMPDfJ0q?theme=auto&bg=auto"
+    width=600 height=397 frameborder=0></iframe><br/>
+</div>
 
 আরেকটি উল্লেখযোগ্য গেম হচ্ছে ইতালিয়ান ন্যাশনাল মাস্টার Luca Albertini-এর সাথে । যেখানে আমার একদম জিতা পজিশন ছিল, ক্যাল্কুলেট না করতে পেরে হাতে মাত্র ৩৫ সেকেন্ড ছিল বিধায় ড্র নিয়ে নেই ।<br/>
 
 NM Luca Albertini vs Sarowar H. Mishkat
-<iframe src="https://lichess.org/embed/4WkkJwpl#2?theme=auto&bg=auto"
-width=600 height=397 frameborder=0></iframe><br/>
-
+<div align="center">
+    <iframe src="https://lichess.org/embed/4WkkJwpl#2?theme=auto&bg=auto"
+    width=600 height=397 frameborder=0></iframe>
+</div>
 আরও দুইটি উল্লেখ্য যজ্ঞ গেইম আছে, যেখানে দুজন ২৫০০ এবং ২৪০০ রেটিং প্লেয়ারের সাথে জয় লাভ করতে সক্ষম হই ।<br/>
 গেম দুটি যথাক্রমে,<br/>
-<iframe src="https://lichess.org/embed/7lWV8jqv?theme=auto&bg=auto"
-width=600 height=397 frameborder=0></iframe><br/>
 
-<iframe src="https://lichess.org/embed/7lWV8jqv?theme=auto&bg=auto"
-width=600 height=397 frameborder=0></iframe><br/>
+<div align="center">
+    <iframe src="https://lichess.org/embed/7lWV8jqv?theme=auto&bg=auto"
+    width=600 height=397 frameborder=0></iframe><br/>
+</div>
+
+<div align="center">
+    <iframe src="https://lichess.org/embed/7lWV8jqv?theme=auto&bg=auto"
+    width=600 height=397 frameborder=0></iframe><br/>
+</div>
 
 আমার কৌশল মূলত এটাই ছিল যে, যেখানে আমার রেটিং টুর্নামেন্টের গড় রেটিং এর চেয়ে কম সেখানে আমি জিতার চেয়ে অনেক বেশি হারবো । হয়েছেও তাই, মাত্র ২৭% গেম জিতেছি! এমনও হয়েছে টানা ১০টির বেশি গেম হেরেছি , কিন্তু থেমে যাই নি । ১৮-১৯ ঘণ্টা খেলার পরে দেখি শীর্ষ ৫০০ এর ভিতরে ঢুকছি বের হচ্ছি । ভাবলাম সকাল ৬ তা পর্যন্ত খেললে অর্থাৎ ২৪ ঘণ্টা খেললে হয়তো শীর্ষ ৫০০ এর ভিতরে থাকতে পারবো । কিন্তু ক্লান্তির কারণে পেরে উঠছিলাম না । সাধারণত মস্তিষ্ক শরীরের প্রায় ২০%  শক্তি ব্যবহার করে, তবে সেদিন আমার পুরোটাই মস্তিষ্ক ব্যবহার করেছিল বলে আমি নিশ্চিত। বিছানায় পিঠ ঠেকাতেই ঘুমিয়ে পড়লাম, ঘুম ভাঙল ৩ ঘণ্টা পর সকাল ৪:৩০-এর দিকে । সাথে সাথে উঠে টুর্নামেন্ট পেজে এসে দেখি র‍্যাঙ্ক ১০০০ এর বাইরে চলে গেছে । তখন চিন্তা করলাম ১ ঘণ্টা কিছু গেইম খেলে যদি অন্তত শীর্ষ ১০০০ এর ভিতরে থাকতে পারি । আবার খেলা শুরু করলাম, জিততে আর পারছিলাম না, একের পর এক হেরেই যাচ্ছিলাম, কারণ টুর্নামেন্টে অংশগ্রহণকারী খেলোয়াড়ের সংখ্যা তখন ২২,০০০ ছাড়িয়ে! তারপরেও কিছু গেইম জিতে শীর্ষ ১,০০০ এর ভিতরে আসতে সক্ষম হয় ।টুর্নামেন্টের শেষে ২৭২টি গেম খেলে আমার অবস্থান ছিল ২২,৪৯৭ খেলোয়াড়দের মাঝে ৯৮৭ আমার আশেপাশে আমার চেয়ে কম রেটেড দাবাড়ু আর দেখি নি । তার মানে বলা যায় আমার কৌশল কিছুটা হলে কাজে লেগেছিল ।<br/>
 

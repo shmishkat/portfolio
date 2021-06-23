@@ -1,4 +1,4 @@
-baseURL = "https://shmishkat.github.io/"
+baseURL = "http://shmishkat.github.io/"
 title = "Sarowar H. Mishkat"
 theme = "hugo-coder"
 languageCode = "en"
@@ -81,10 +81,10 @@ customJS = []
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
-childsrc = ["'self'"]
+childsrc = ["'self'", "https://lichess.org", "https://docs.google.com/"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
 formaction = ["'self'"]
-framesrc = ["'self'"]
+framesrc = ["'self'", "https://lichess.org","https://docs.google.com/"]
 imgsrc = ["'self'"]
 objectsrc = ["'none'"]
 stylesrc = [
