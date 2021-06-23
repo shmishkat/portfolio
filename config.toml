@@ -11,6 +11,11 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 author = "Sarowar Hossain Mishkat"
 description = "Sarowar H. Mishkat's personal website"
