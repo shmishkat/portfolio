@@ -2,7 +2,7 @@
 author = "Sarowar Hossain Mishkat"
 title = "Vagabon Rider Intro"
 date = "2020-04-12"
-description = "2020 Spring Marathon Experience"
+description = "Vagabon Rider Intro"
 tags = [
     "YouTube",
     "Video Editing",
