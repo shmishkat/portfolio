@@ -81,10 +81,10 @@ customJS = []
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
-childsrc = ["'self'", "https://lichess.org", "https://docs.google.com/"]
+childsrc = ["'self'", "https://lichess.org", "https://docs.google.com/", "https://www.youtube.com/"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
 formaction = ["'self'"]
-framesrc = ["'self'", "https://lichess.org","https://docs.google.com/"]
+framesrc = ["'self'", "https://lichess.org","https://docs.google.com/", "https://www.youtube.com/"]
 imgsrc = ["'self'"]
 objectsrc = ["'none'"]
 stylesrc = [
