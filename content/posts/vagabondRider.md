@@ -12,7 +12,7 @@ This home quarantine has gifted me with a new hobby. In the past few days, I tri
 Special thanks to [Sazidur Rahman Saad](https://www.facebook.com/sazidsaad "Sazidur Rahman Saad") for making a logo for my channel! We have plans to make videos together. 
 If you like the content do consider SUBSCRIBING to my channel.
 
-<iframe width="858" height="482.63" src="https://www.youtube.com/embed/UJWXf2uFXr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJWXf2uFXr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Logo designed by [Sazidur Rahman Saad](https://www.facebook.com/sazidsaad "Sazidur Rahman Saad")</be>
 
